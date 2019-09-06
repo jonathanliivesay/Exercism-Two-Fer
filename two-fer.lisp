@@ -6,4 +6,4 @@
 
 (defun twofer (&optional (name "you"))
     (concatenate 'string "One for " name ", one for me.")
-    )
+)
